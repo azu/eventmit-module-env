@@ -1,0 +1,32 @@
+{
+  "name": "eventmit-module-env",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "homepage": "https://github.com/azu/eventmit-module-env",
+  "bugs": {
+    "url": "https://github.com/azu/eventmit-module-env/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/azu/eventmit-module-env.git"
+  },
+  "license": "MIT",
+  "author": "azu",
+  "main": "lib/eventmit-module-env.js",
+  "directories": {
+    "lib": "lib",
+    "test": "test"
+  },
+  "files": [
+    "bin/",
+    "lib/",
+    "src/"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "eventmit": "^2.0.2"
+  }
+}
